@@ -1,0 +1,15 @@
+{
+  "firstname": "Kai",
+  "gender": true,
+  "height": 165,
+  "email":"huaichen.kang@gmail.com",
+  "city":{
+    "通訊地址":"新北",
+    "戶籍地址":"新北"
+  },
+  "phone":{
+    "市話":"02-20202020",
+    "行動電話":"0953652659"
+  },
+  "cars":["Toyota","Mazda","Honda"]
+}
