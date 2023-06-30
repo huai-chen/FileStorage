@@ -1,0 +1,24 @@
+[
+   {
+    "product":["iPhone14Pro","iPhone14Pro.png"],
+    "color":["purple","gold","silver","black"],
+    "storage":[{"memory":"128GB","price":34900},{"memory": "256GB",
+               "price": 38400},{"memory": "512GB","price": 45400},{"memory": "1TB","price": 52400}],
+    "picture":["iPhonePurple.png","iPhoneGold.png","iPhoneSilver.png","iPhoneBlack.png"]
+   },
+   {
+    "product":["iPadAir","iPadAir.png"],
+    "color":["gray","blue","rose","purple","starlight"],
+    "storage":[{"memory":"64GB","price":19900},{"memory": "256GB",
+            "price": 24900}],
+    "picture":["iPadGray.png","iPadBlue.png","iPadRose.png","iPadPurple.png","iPadStarlight.png"]
+   },
+   {
+    "product":["MacBookPro","MacBookPro.png"],
+    "color":["gray","silver"],
+    "storage":[{"memory":"256GB","price":39900},{"memory": "512GB",
+            "price": 45900}],
+    "picture":["MacBookProGray.png","MacBookProSilver.png"]
+   }
+
+]
